@@ -1,4 +1,4 @@
-# Formation
+﻿# Formation
 Formation GIT
 Projet pour la formation GIT
 
@@ -6,3 +6,5 @@ Projet pour la formation GIT
 m2i-jour1 - 
 
 # Deuxième ligne
+
+Test Patch
