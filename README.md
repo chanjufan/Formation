@@ -6,3 +6,6 @@ Projet pour la formation GIT
 m2i-jour1 - 
 
 # Deuxième ligne
+# STASH
+# STASH SUITE
+
