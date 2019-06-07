@@ -1,0 +1,4 @@
+# Commentaire
+config.yaml
+/logs/*
+!.logs/.gitkeep
